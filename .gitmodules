@@ -7,3 +7,6 @@
 [submodule "imageUploader"]
 	path = imageUploader
 	url = git@github.com:suyenfetchly/imageUploader.git
+[submodule "notebook"]
+	path = notebook
+	url = git@github.com:suyenfetchly/notebook.git
