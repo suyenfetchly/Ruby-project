@@ -1,3 +1,3 @@
 [submodule "appointment"]
 	path = appointment
-	url = git@github.work:suyenfetchly/appointment.git
+	url = git@github.com:suyenfetchly/appointment.git
