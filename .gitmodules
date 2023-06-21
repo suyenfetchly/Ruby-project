@@ -10,3 +10,6 @@
 [submodule "notebook"]
 	path = notebook
 	url = git@github.com:suyenfetchly/notebook.git
+[submodule "railschat"]
+	path = railschat
+	url = git@github.com:suyenfetchly/railschat.git
