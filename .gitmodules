@@ -1,3 +1,6 @@
 [submodule "appointment"]
 	path = appointment
 	url = git@github.com:suyenfetchly/appointment.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:suyenfetchly/blog.git
