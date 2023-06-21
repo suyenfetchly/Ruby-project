@@ -4,3 +4,6 @@
 [submodule "blog"]
 	path = blog
 	url = git@github.com:suyenfetchly/blog.git
+[submodule "imageUploader"]
+	path = imageUploader
+	url = git@github.com:suyenfetchly/imageUploader.git
